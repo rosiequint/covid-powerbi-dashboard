@@ -10,7 +10,6 @@ An interactive Power BI dashboard exploring the global trajectory of COVID-19 ac
 
 - **Cumulative cases & deaths over time** — line charts tracking the pandemic's waves across countries
 - **Case burden per million** — normalising by population for fair cross-country comparison
-- **Vaccination progress** — share of population fully vaccinated
 - **Geographic view** — total cases mapped by country
 - **Interactive filtering** — slicers for country and date range
 
