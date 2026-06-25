@@ -1,6 +1,6 @@
 # COVID-19 Power BI Dashboard
 
-An interactive Power BI dashboard exploring the global trajectory of COVID-19 across 12 countries (2020–2024), built as a companion piece to my [Baltimore Food Security Dashboard](#) (R Shiny). Where the Shiny project demonstrates dashboarding in R, this one demonstrates the same analytical instincts in Power BI.
+An interactive Power BI dashboard exploring the global trajectory of COVID-19 across 12 countries (2020–2024).
 
 ## Dashboard
 
